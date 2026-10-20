@@ -1,12 +1,12 @@
  
 <div align="center">
-  <table>
-  <tr>
-    <td align="center">
-      <img src="public/eeci-logo-white.svg" alt="EECI Logo" width="240" style="filter: drop-shadow(0px 0px 8px rgba(0, 0, 0, 0.4));" />
-    </td>
-  </tr>
-</table>
+   <p align="center">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="public/eeci-logo-white.svg">
+       <source media="(prefers-color-scheme: light)" srcset="public/eeci-logo-black.svg">
+       <img src="public/eeci-logo-black.svg" alt="EECI Logo" width="240">
+     </picture>
+   </p>
 
   # Ethiopian Enterprise Cyber Intelligence (EECI)
 
