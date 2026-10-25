@@ -49,8 +49,7 @@ EECI is developed by a team with complementary cybersecurity specializations.
 
 It is a web platform where Ethiopian companies create an organizational security profile and integrate relevant cybersecurity data and compliance information. Then the platform enables organizations to continuously assess and strengthen their organizational security posture with the integrated security compliance assessment and defensive capabilities, including incident reporting, vulnerability assessment, authorized penetration testing and controlled red-team engagement. With integrated AI features.
 
-<video src="video/eeci.mp4" controls loop width="100%">
-</video>
+**Demonstration Video:** https://github.com/dagmawi-kebede-official/eeci/tree/main/video
 
 **Live Demo:** https://insa-eeci.vercel.app/
 
